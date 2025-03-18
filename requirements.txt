@@ -1,0 +1,18 @@
+# TourMoreAI requirements.txt
+amadeus==7.0.0
+python-dotenv==1.0.0
+pydantic==2.5.0
+requests==2.31.0
+
+# Agno framework dependencies
+agno>=0.9.0
+agno-playground>=0.3.0
+
+# Database dependencies
+sqlalchemy>=2.0.0
+
+# For async operations
+aiohttp==3.9.1
+
+# For handling dates
+python-dateutil==2.8.2
