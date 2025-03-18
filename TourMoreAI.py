@@ -18,8 +18,8 @@ from simplified_map_tools import SimplifiedMapTools
 load_dotenv()
 
 # Initialize flight toolkit
-client_id = "3k11YFnI3vrwERi7fPXgAvFjQexfY7gg"
-client_secret = "6r9LW52D17vr6UWx"
+client_id = "CLIENT ID"
+client_secret = "SECRET-HERE"
 flight_toolkit = FlightToolkit(client_id=client_id, client_secret=client_secret, debug=True)
 
 # Define response models for structured outputs
